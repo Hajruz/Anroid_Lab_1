@@ -1,6 +1,5 @@
 package com.example.user.anroid_lab_1;
 
-import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
