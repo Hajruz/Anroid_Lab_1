@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Тест</string>
+    <string name="welcome">Здравствуйте, представтесь</string>
+    <string name="user_name">Имя</string>
+    <string name="user_surname">Фамилия</string>
+    <string name="start_test">Начать тест!</string>
+
+    <string name="question">Вопрос</string>
+    <string name="next_question">Дальше</string>
+</resources>
